@@ -24,6 +24,8 @@ To illustrate the RAG concept, we’ll create a simple Python-based implementati
 
 5. To test the model, let’s test our RAG system with a simple query: ‘What can you tell me about Paris?’ The system effectively retrieved relevant information from our basic knowledge base about Paris and generates a comprehensive response.
 
-For more details, check out my YouTube video and Medium blog
-https://youtu.be/P4NOCNY_X7Q?feature=shared
-https://medium.com/code-like-a-girl/what-is-rag-python-tutorial-gemini-1-5-pro-api-434fcdb9419e
+For more details, check out my YouTube video and Medium blog:
+
+-https://youtu.be/P4NOCNY_X7Q?feature=shared
+
+-https://medium.com/code-like-a-girl/what-is-rag-python-tutorial-gemini-1-5-pro-api-434fcdb9419e
