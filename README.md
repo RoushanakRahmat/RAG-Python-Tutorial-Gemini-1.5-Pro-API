@@ -1,8 +1,7 @@
-![image](https://github.com/user-attachments/assets/286fb0e0-1adc-4924-9b80-1a76d6b29437)
-
-
 Building a Basic RAG Tutorial Using Gemini 1.5 Pro
 To illustrate the RAG concept, we’ll create a simple Python-based implementation using the Gemini-1.5-Pro model. The code will involve:
+
+![image](https://github.com/user-attachments/assets/286fb0e0-1adc-4924-9b80-1a76d6b29437)
 
 1. First you need to import the libraries:
 -google.generativeai for the Gemini model
